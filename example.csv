@@ -1,0 +1,6 @@
+Serial No.,Crop ID,Crop Name,Season,Region,Farm ID,Farmer Name,Pincode,Gender,Total Farm Area (Sq. Km),Variety of crops,Fertiliser Details,Yield (Kg),Selling Price (Rs/Kg),Product ID,Pack Serial No.,Batch No.,Net Weight (Kg),Gross Weight (Kg)
+1,CR001,Rice,June,Andhra Pradesh,FRM001,Manish,515001,Male,12 sq. Km,4,Organic,24000 Kg,Rs.12/kg,PR001,PKSN001,Batch#001,20000,21500
+2,CR002,Rice,September,Kerela,FRM002,Gopal,670001,Male,33 sq. Km,1,Chemical and Organic mix,56000 Kg,Rs.14/Kg,PR002,PKSN002,Batch#001,52500,54000
+3,CR003,Maize,July,Madhya Pradesh,FRM003,Ankita,450001,Female,12 sq. Km,2,Organic,33000 Kg,Rs.13/Kg,PR003,PKSN003,Batch#001,26000,28500
+4,CR004,Corn,July,Uttar Pradesh,FRM004,Mayank,282001,Male,40 sq. Km,4,Chemical,80000 Kg,Rs.21/Kg,PR004,PKSN004,Batch#001,78400,79000
+5,CR005,Apple,October,Kashmir,FRM005,Rahul,190001,Male,18 sq. Km,1,Organic,4000 Kg,Rs.70/Kg,PR005,PKSN005,Batch#001,3400,3600
